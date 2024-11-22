@@ -13,7 +13,7 @@
 
 ## **Introduction**
 
-This is the backend server for the book exchnage application. It is built using Express.js and MongoDB to provide RESTful APIs for managing data, authentication, and other backend logic.
+The is Micro service for the User. It is built using Express.js and MongoDB to provide RESTful APIs for managing data, authentication, and other backend logic.
 
 ---
 
